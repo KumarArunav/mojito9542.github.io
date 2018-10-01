@@ -33,3 +33,5 @@ Email- mohitagarwal9542@gmail.com
 
 Feedbacks are always welcomed!!!
 
+You can change the UI to somewhat more interactive and a bit of animations would help also. You can always refer to https://codepen.io
+
